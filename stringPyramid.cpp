@@ -36,7 +36,7 @@ void print(string str)
 int main()
 {
     string str;
-    cou << "Enter a string: " << endl;
+    cout << "Enter a string: " << endl;
     cin >> str;
     print(str);
     return 0;
